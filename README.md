@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @skpalivela
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-skpalivela/skpalivela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Symfony CLI application
+ Process local or remote XML, process and upload to Google Sheets
+ Configurable Auth
